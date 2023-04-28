@@ -1,4 +1,4 @@
-# Implementation of Carry Look Ahead Adder Using Cadence
+# Semi Custom Design of a CLA with 90nm Using Cadence
 - In this project, I have implemented the physical design of a 4-bit Carry Look Ahead Adder using Candence Tool suite.
 - A 4-bit carry-lookahead adder is a digital circuit that can perform binary addition of two 4-bit binary numbers with very low latency. It is a type of parallel adder that uses a combination of logic gates and lookahead circuits to speed up the carry propagation process.
 
